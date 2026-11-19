@@ -1,0 +1,2 @@
+# NETWORKWALKS-WK2-FOOTPRINTING-AND-NETWORK-SCANNING
+Week 2 of my internship with Networkwalks
